@@ -1,0 +1,14 @@
+{
+  "linkedin": {
+    "username": "your_email@example.com",
+    "password": "your_password"
+  },
+  "indeed": {
+    "email": "your_email@example.com",
+    "password": "your_password"
+  },
+  "glassdoor": {
+    "email": "your_email@example.com",
+    "password": "your_password"
+  }
+}
